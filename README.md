@@ -31,3 +31,14 @@
 
 需要确定测量概率 p(z_t ∣ x_t) 和状态转移概率 p(x_t ∣ u_t, x_t-1) 
 
+
+
+
+---
+
+# References
+
+## [Book](https://github.com/lilinxi/CV-material/blob/master/books/%E6%A6%82%E7%8E%87%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6-2.pdf)
+
+## [Note](https://zhehangt.github.io/tags/Probabilistic-Robotics/)
+
