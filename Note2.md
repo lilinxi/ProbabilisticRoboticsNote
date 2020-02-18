@@ -118,7 +118,8 @@ transition->reweighting->resampling
 
 基于特征的 (feature-based) 地图：特征的索引，特征的属性及特征的笛卡儿位置。
 
-基于位置的 (loca­ tion- based) 地图：索引与特定的位置对应。
+基于位置的 (location- based) 地图：索引与特定的位置对应。
+
 ----
 
 # 第二部分 定位
